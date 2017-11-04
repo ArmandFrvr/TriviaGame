@@ -83,7 +83,7 @@ var currentQuestion = 0;
 
 // Timer variables
 var intervalID;
-var timerLength = 30;
+var timerLength = 20;
 
 
 $(document).ready(function() {
